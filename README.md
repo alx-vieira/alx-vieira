@@ -6,10 +6,12 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <a href="https://github.com/alx-vieira/alx-vieira/README">
+  <a href="https://github.com/alx-vieira/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alx-vieira&repo=alx-vieira/README&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx-vieira&layout=compact&langs_count=16&theme=dracula&count_private=true&show-icons=true"/>
+  <a href="https://github.com/alx-vieira/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx-vieira&layout=compact&langs_count=16&theme=dracula&show-icons=true"/>
+  </a>
 </div>
 
 ##
