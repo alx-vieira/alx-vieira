@@ -17,8 +17,6 @@
 
 ### Olá!! Sou o Alex Vieira...
 
-- 🔭 No momento procurando uma colocação...
-- 🌱 Estudando VueJS
 - 📫 Contato E-mail: alxsv@hotmail.com
 <div align="center">
   <a href="https://github.com/alx-vieira/">
