@@ -19,10 +19,5 @@
 
 - 📫 Contato E-mail: alxsv@hotmail.com
 <div align="center">
-  <a href="https://github.com/alx-vieira/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alx-vieira&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://github.com/alx-vieira/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx-vieira" />
-  </a>
+  <a href="https://github.com/alx-vieira/"></a>
 </div>   
